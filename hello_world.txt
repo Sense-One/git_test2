@@ -1,1 +1,3 @@
 Working on staging.
+
+Using nano to edit. 
